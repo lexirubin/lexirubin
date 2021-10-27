@@ -9,6 +9,6 @@ title: XML
 <h2>My XML Documents using CETEIcean</h2>
 <!-- add links to the HTML versions of your XML files below-->
 <p><a href="../xml/[filename]"></a></p>
-<p><a href="../xml/eggs"></a></p>
+<p><a href="../xml/eggs.html"></a></p>
 
 </div>
