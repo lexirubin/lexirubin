@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/lexir/Downloads/xml_materials/silly_poem.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<poem xmlns="http://lexirubin.github.io/ns/1.0">
+    <title>Let's Think of Eggs</title>
+    <author>Ogden Nash</author>
+    <stanza>
+        <line>Let's think of eggs--</line>
+        <line>They have no legs!</line>
+        <line>Chickens come from eggs,</line>
+    </stanza>
+</poem>
