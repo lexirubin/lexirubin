@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My only personality trait is coffee.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please don't ask how tall I am. I know I'm short.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rubin.a@northeastern.edu](mailto:rubin.a@northeastern.edu)
