@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: Trial by fire
 ---
 
 Another first trial!
