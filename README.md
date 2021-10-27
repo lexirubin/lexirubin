@@ -7,3 +7,8 @@ The localized components are as follows:
 * /js/CETEI_local.js: This is a copy of the CETEI.js file which has been be modified to process elements from non-TEI namespaces. 
 * /xml/CETEIcean_mine.css: This is a copy of the CETEIcean.css file that can be used to create styles that work with the localized element names. 
 * /xml/template.html: This is a version of the CETEIcean HTML template that points to the localized CSS and Javascript files.
+
+
+
+
+I don't want to get rid of the original README but I have made my own little tweaks.
